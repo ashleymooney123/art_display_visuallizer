@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "371590675771",
+    "firebase_url": "https://new-art-display.firebaseio.com",
+    "project_id": "new-art-display",
+    "storage_bucket": "new-art-display.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:371590675771:android:26224322f361ddee19cb1e",
+        "android_client_info": {
+          "package_name": "com.example.art_display_visuallizer"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "371590675771-5jsln0q09vcr7ea92eru8300cr0ujo7j.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.art_display_visuallizer",
+            "certificate_hash": "e9aa26eecd4da5bde29c3b5bbbcb10c78014c2de"
+          }
+        },
+        {
+          "client_id": "371590675771-chg0818bfjuv398c6v7m1h6uou6u7768.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyClTjzL01Brf9_CGzmcothNrViS0d0ifOE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "371590675771-chg0818bfjuv398c6v7m1h6uou6u7768.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
